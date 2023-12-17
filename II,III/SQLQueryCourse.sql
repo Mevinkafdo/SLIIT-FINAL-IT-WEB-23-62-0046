@@ -1,0 +1,5 @@
+SELECT TOP (1000) [StudentID]
+      ,[Name]
+      ,[City]
+      ,[CourseID]
+  FROM [Student Information].[dbo].[Students]

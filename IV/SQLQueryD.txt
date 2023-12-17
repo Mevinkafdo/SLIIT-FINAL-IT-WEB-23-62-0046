@@ -1,0 +1,4 @@
+SELECT Students.StudentId,Students.Name AS StudentName,Students.City,Courses.Name AS
+CourseName
+FROM Students
+LEFT JOIN Courses ON Students.CourseId=Courses.CourseId;
