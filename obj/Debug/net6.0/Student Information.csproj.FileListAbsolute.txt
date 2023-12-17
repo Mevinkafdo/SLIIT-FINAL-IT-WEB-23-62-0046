@@ -1,0 +1,30 @@
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfoInputs.cache
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.AssemblyInfo.cs
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.csproj.CoreCompileInputs.cache
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.RazorAssemblyInfo.cache
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.RazorAssemblyInfo.cs
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\appsettings.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.staticwebassets.runtime.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.exe
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.deps.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.runtimeconfig.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.dll
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\bin\Debug\net6.0\Student Information.pdb
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets\msbuild.Student Information.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets\msbuild.build.Student Information.props
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student Information.props
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student Information.props
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\scopedcss\bundle\Student Information.styles.css
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\scopedcss\projectbundle\Student Information.bundle.scp.css
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.dll
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\refint\Student Information.dll
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.pdb
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\Student Information.genruntimeconfig.cache
+C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\obj\Debug\net6.0\ref\Student Information.dll

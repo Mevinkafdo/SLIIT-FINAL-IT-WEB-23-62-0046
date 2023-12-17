@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Student_Information
+build_property.RootNamespace = Student_Information
+build_property.ProjectDir = C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mevin\Downloads\SLIIT Final\IT WEB 23 62 0046-Mevinka Shenal Fernando\Q2\Student Information
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/New Course Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3IENvdXJzZSBJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/New Student Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3IFN0dWRlbnQgSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Student Information.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudCBJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/1/Student Information.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudCBJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mevin/Downloads/SLIIT Final/IT WEB 23 62 0046-Mevinka Shenal Fernando/Q2/Student Information/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r2qzvdm6na
